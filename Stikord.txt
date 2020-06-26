@@ -1,0 +1,14 @@
+Agile
+React
+JS
+HTML
+CSS
+Gatsby.js
+SEO
+Module
+JAMstack
+CMS
+UI
+UX
+Git
+GitHub
